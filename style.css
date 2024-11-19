@@ -1,0 +1,15 @@
+.HEADER {
+  width: 100%;
+  background-color: #D98F08;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: white;
+}
+.BODY {
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+}
